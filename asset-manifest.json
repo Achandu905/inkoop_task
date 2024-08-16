@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inkoop_task/static/css/main.23875f4d.css",
+    "main.js": "/inkoop_task/static/js/main.eccf264c.js",
+    "index.html": "/inkoop_task/index.html",
+    "main.23875f4d.css.map": "/inkoop_task/static/css/main.23875f4d.css.map",
+    "main.eccf264c.js.map": "/inkoop_task/static/js/main.eccf264c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23875f4d.css",
+    "static/js/main.eccf264c.js"
+  ]
+}
