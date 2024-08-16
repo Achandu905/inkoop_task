@@ -1,0 +1,48 @@
+.container {
+    text-align: center;
+    margin: 50px auto;
+    width: 300px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.message {
+    color: #e74c3c;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.next-numbers {
+    margin-top: 20px;
+}
+
+.next-numbers p {
+    font-size: 16px;
+    color: #333;
+}
+
+.next-numbers ul {
+    list-style: none;
+    padding: 0;
+}
+
+.next-numbers li {
+    font-size: 16px;
+    color: #2980b9;
+}
